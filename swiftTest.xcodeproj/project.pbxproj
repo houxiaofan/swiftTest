@@ -14,6 +14,7 @@
 		9650358B1F9F1C5000C69160 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 965035891F9F1C5000C69160 /* LaunchScreen.storyboard */; };
 		965035961F9F1C5100C69160 /* swiftTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 965035951F9F1C5100C69160 /* swiftTestTests.swift */; };
 		965035A11F9F1C5100C69160 /* swiftTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 965035A01F9F1C5100C69160 /* swiftTestUITests.swift */; };
+		96A6382B2016E20100C24CFA /* testxxxx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A6382A2016E20100C24CFA /* testxxxx.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9650359C1F9F1C5100C69160 /* swiftTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		965035A01F9F1C5100C69160 /* swiftTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftTestUITests.swift; sourceTree = "<group>"; };
 		965035A21F9F1C5100C69160 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96A6382A2016E20100C24CFA /* testxxxx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testxxxx.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				965035801F9F1C5000C69160 /* AppDelegate.swift */,
 				965035821F9F1C5000C69160 /* ViewController.swift */,
+				96A6382A2016E20100C24CFA /* testxxxx.swift */,
 				965035841F9F1C5000C69160 /* Main.storyboard */,
 				965035871F9F1C5000C69160 /* Assets.xcassets */,
 				965035891F9F1C5000C69160 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96A6382B2016E20100C24CFA /* testxxxx.swift in Sources */,
 				965035831F9F1C5000C69160 /* ViewController.swift in Sources */,
 				965035811F9F1C5000C69160 /* AppDelegate.swift in Sources */,
 			);
