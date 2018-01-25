@@ -41,6 +41,7 @@ class ViewController: UIViewController {
     }
     @IBAction func btn(_ sender: Any) {
         print("This is a Git tutorial")
+        print("This is a Git test")
     }
     
     func runoob(site:String) -> String {
